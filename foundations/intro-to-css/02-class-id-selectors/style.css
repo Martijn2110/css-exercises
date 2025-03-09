@@ -1,0 +1,18 @@
+#smurf-title {
+    color: rgb(57, 57, 209);
+    font-size: 36px;
+}
+
+.odd-item {
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+    background-color: rgba(243, 18, 18, 0.69);
+}
+
+.large-item{
+    font-size: 24px;
+}
+
+#hulk-backcolor {
+    font-weight: bold;
+    background-color: rgb(47, 201, 59);
+}
